@@ -203,7 +203,7 @@
                     <div class="max-w-5xl mx-auto">
                         <!-- 公司抬头 -->
                         <div class="text-center border-b-2 border-gray-900 pb-2 mb-2">
-                            <h1 class="text-lg sm:text-xl md:text-2xl font-bold text-gray-900 mb-1">常州市飞象照明设备有限公司</h1>
+                            <h1 class="text-lg sm:text-xl md:text-2xl font-bold text-gray-900 mb-1">常州飞象照明设备有限公司</h1>
                             <p class="text-[10px] sm:text-xs text-gray-600">地址：常州市钟楼区邹区镇工业大道62-1佳美大厦3楼304室
                                 电话:18015031227/18015031272</p>
                         </div>
